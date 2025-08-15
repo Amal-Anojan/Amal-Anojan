@@ -1,16 +1,60 @@
 ## Hi there 👋
 
-<!--
-**Amal-Anojan/Amal-Anojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Banner -->
+<img src="https://i.imgur.com/ZVb3jFp.gif" alt="Welcome Banner" width="100%" />
 
-Here are some ideas to get you started:
+<h1 align="center">Hey 👋, I'm Amal Anojan</h1>
+<h3 align="center">💻 Data Scientist | 🌱 Lifelong Learner | 🚀 Problem Solver</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+<img align="right" alt="Coding GIF" src="https://i.imgur.com/3yR4G8g.gif" width="300" />
+
+- 🔭 Currently working on: **Cool personal projects & open-source**
+- 🌱 Learning: **Python, Java, Cloud Tech**
+- 💬 Ask me about: **Coding, Tech Tools, Open Source**
+- ⚡ Fun fact: I debug with **coffee ☕** and **music 🎶**
+
+---
+
+## 🌟 My Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="top langs" height="160" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=radical&no-frame=true&margin-w=10" alt="trophies" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/amal-anojan-aj07?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:amaloff7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://x.com/0712ANO?t=pyQ7saU1VvqpDrwmKIlyEw&s=08"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
+</p>
+
+<!-- Footer GIF -->
+<img src="https://i.imgur.com/dBaSKWF.gif" alt="Cool Footer" width="100%" />
+# Anojan-C.A.
