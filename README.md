@@ -1,5 +1,4 @@
-<!-- Profile Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hvbWp5dDJxbXphdzl4enVydWl3b3k3aGl4Nm9xM3kzZXdqOTJmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3otPorWLQJq5GmHRtu/giphy.gif" alt="Welcome Banner" width="100%" />
+
 
 <h1 align="center">Hey 👋, I'm Amal Anojan</h1>
 <h3 align="center">🎓 Pursuing a Degree in Data Science | 💻 Aspiring Developer</h3>
